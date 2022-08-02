@@ -1,0 +1,1 @@
+These are my codes from my Google challenges august 2022.
